@@ -1,15 +1,15 @@
 
-Code Refactor
+#Code Refactor#
 
-About The Project 
+##About The Project## 
 
 Using Accessibity Standards, the project aims to an existing webpage to make it accessible for users, including ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
 Product Name Screen Shot
 
-https://www.dropbox.com/s/5rg2wjh3lq09kvk/Screenshot%202020-02-19%2015.20.20.png?dl=0 .md = markdown
 
-Built With
+
+##Built With##
 
     HTML 
     CSS 
