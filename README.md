@@ -1,40 +1,39 @@
+# Code Refactor #
 
-#Code Refactor#
+![Code Refactoring Gif](assets/screenshots/refactoring.gif)
 
-##About The Project## 
+## About The Project ## 
 
-Using Accessibity Standards, the project aims to an existing webpage to make it accessible for users, including ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Using Accessibity Standards, the project aims to alter an existing webpage to make it accessible for users, including ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-Product Name Screen Shot
+## Code Refactor Screen Shot ##
 
+### Image of the website ###
 
+![Screenshot of the website](assets/screenshots/Horiseon.png)
 
-##Built With##
+### Screenshot of the HTML Code ###
+
+![Screenshot of the HTML Code](assets/screenshots/html.png)
+
+### Screenshot of the CSS Style ###
+
+![Screenshot of the CSS Code](assets/screenshots/cssstyle.png)
+
+## Built With ##
 
     HTML 
     CSS 
     VS Code
 
-Getting Started
 
-Installation
+### Installation ###
 
     Clone the repo
 
 git clone https://github.com/Mitchelle-B/repo.git
 
-    Install NPM packages
-
-npm install
-
-Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-For more examples, please refer to the Documentation
-
-
-Contributing
+## Contributing ##
 
     Fork the Project
     Create your Feature Branch (git checkout -b feature/AmazingFeature)
@@ -42,13 +41,13 @@ Contributing
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 
-License
+## License ##
 
 Distributed under the MIT License. See LICENSE for more information.
 Contact
 
 Project Link: https://github.com/Mitchelle-B/repo
 
-Acknowledgements
+## Acknowledgements ##
 
-UWA Code Academy
+UWA Coding Bootcamp 
